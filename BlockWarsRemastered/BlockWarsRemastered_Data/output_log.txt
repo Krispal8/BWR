@@ -1,0 +1,66 @@
+Mono path[0] = 'C:/Users/krisp/Documents/BlockWarsRemastered/Builds/BlockWarsRemastered_Data/Managed'
+Mono path[1] = 'C:/Users/krisp/Documents/BlockWarsRemastered/Builds/BlockWarsRemastered_Data/Mono'
+Mono config path = 'C:/Users/krisp/Documents/BlockWarsRemastered/Builds/BlockWarsRemastered_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/krisp/Documents/BlockWarsRemastered/Builds/BlockWarsRemastered_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55313
+Multi-casting "[IP] 192.168.1.164 [Port] 55313 [Flags] 2 [Guid] 336938475 [EditorId] 816839539 [Version] 1048832 [Id] WindowsPlayer(DELL-Krispal) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.1.164:55313]
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\krisp\Documents\BlockWarsRemastered\Builds\BlockWarsRemastered_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\krisp\Documents\BlockWarsRemastered\Builds\BlockWarsRemastered_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\krisp\Documents\BlockWarsRemastered\Builds\BlockWarsRemastered_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\krisp\Documents\BlockWarsRemastered\Builds\BlockWarsRemastered_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\krisp\Documents\BlockWarsRemastered\Builds\BlockWarsRemastered_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\krisp\Documents\BlockWarsRemastered\Builds\BlockWarsRemastered_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\krisp\Documents\BlockWarsRemastered\Builds\BlockWarsRemastered_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\krisp\Documents\BlockWarsRemastered\Builds\BlockWarsRemastered_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\krisp\Documents\BlockWarsRemastered\Builds\BlockWarsRemastered_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\krisp\Documents\BlockWarsRemastered\Builds\BlockWarsRemastered_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\krisp\Documents\BlockWarsRemastered\Builds\BlockWarsRemastered_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.172 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\krisp\Documents\BlockWarsRemastered\Builds\BlockWarsRemastered_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2dd8 -> priority: 1 
+  Thread -> id: 2de8 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.839923 ms
+System memory in use before: 20.3 MB.
+System memory in use after: 20.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1081.
+Total: 0.687770 ms (FindLiveObjects: 0.049595 ms CreateObjectMapping: 0.036467 ms MarkObjects: 0.588944 ms  DeleteObjects: 0.011669 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.519881 ms
+System memory in use before: 27.3 MB.
+System memory in use after: 27.4 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2135.
+Total: 1.069946 ms (FindLiveObjects: 0.081686 ms CreateObjectMapping: 0.048501 ms MarkObjects: 0.916784 ms  DeleteObjects: 0.022244 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.480202 ms
+Multiple NetworkManagers detected in the scene. Only one NetworkManager can exist at a time. The duplicate NetworkManager will not be used.
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:LogWarning(Object)
+UnityEngine.Networking.NetworkManager:Awake() (at C:\buildslave\unity\build\Extensions\Networking\Runtime\NetworkManager.cs:157)
+ 
+(Filename: C:/buildslave/unity/build/Extensions/Networking/Runtime/NetworkManager.cs Line: 157)
+
+System memory in use before: 23.9 MB.
+System memory in use after: 22.2 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 1116.
+Total: 0.861719 ms (FindLiveObjects: 0.045583 ms CreateObjectMapping: 0.045948 ms MarkObjects: 0.680477 ms  DeleteObjects: 0.088615 ms)
+
