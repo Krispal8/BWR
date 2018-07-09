@@ -2,9 +2,9 @@ Mono path[0] = 'C:/Users/krisp/Documents/BlockWarsRemastered/Builds/BlockWarsRem
 Mono path[1] = 'C:/Users/krisp/Documents/BlockWarsRemastered/Builds/BlockWarsRemastered_Data/Mono'
 Mono config path = 'C:/Users/krisp/Documents/BlockWarsRemastered/Builds/BlockWarsRemastered_Data/Mono/etc'
 PlayerConnection initialized from C:/Users/krisp/Documents/BlockWarsRemastered/Builds/BlockWarsRemastered_Data (debug = 0)
-PlayerConnection initialized network socket : 0.0.0.0 55313
-Multi-casting "[IP] 192.168.1.164 [Port] 55313 [Flags] 2 [Guid] 336938475 [EditorId] 816839539 [Version] 1048832 [Id] WindowsPlayer(DELL-Krispal) [Debug] 0" to [225.0.0.222:54997]...
-PlayerConnection already initialized - listening to [192.168.1.164:55313]
+PlayerConnection initialized network socket : 0.0.0.0 55273
+Multi-casting "[IP] 192.168.1.164 [Port] 55273 [Flags] 2 [Guid] 2838412883 [EditorId] 754196588 [Version] 1048832 [Id] WindowsPlayer(DELL-Krispal) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.1.164:55273]
 Initialize engine version: 5.2.2f1 (3757309da7e7)
 GfxDevice: creating device client; threaded=1
 Direct3D:
@@ -24,33 +24,33 @@ Loading C:\Users\krisp\Documents\BlockWarsRemastered\Builds\BlockWarsRemastered_
 Platform assembly: C:\Users\krisp\Documents\BlockWarsRemastered\Builds\BlockWarsRemastered_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\krisp\Documents\BlockWarsRemastered\Builds\BlockWarsRemastered_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\krisp\Documents\BlockWarsRemastered\Builds\BlockWarsRemastered_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.172 seconds
+- Completed reload, in  0.065 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
 Platform assembly: C:\Users\krisp\Documents\BlockWarsRemastered\Builds\BlockWarsRemastered_Data\Managed\System.dll (this message is harmless)
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 2dd8 -> priority: 1 
-  Thread -> id: 2de8 -> priority: 1 
+  Thread -> id: 614 -> priority: 1 
+  Thread -> id: 2fec -> priority: 1 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.839923 ms
+UnloadTime: 4.250254 ms
 System memory in use before: 20.3 MB.
 System memory in use after: 20.4 MB.
 
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1081.
-Total: 0.687770 ms (FindLiveObjects: 0.049595 ms CreateObjectMapping: 0.036467 ms MarkObjects: 0.588944 ms  DeleteObjects: 0.011669 ms)
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1152.
+Total: 1.054996 ms (FindLiveObjects: 0.070017 ms CreateObjectMapping: 0.092262 ms MarkObjects: 0.875213 ms  DeleteObjects: 0.015680 ms)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.519881 ms
-System memory in use before: 27.3 MB.
-System memory in use after: 27.4 MB.
+UnloadTime: 1.025822 ms
+System memory in use before: 27.2 MB.
+System memory in use after: 27.3 MB.
 
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2135.
-Total: 1.069946 ms (FindLiveObjects: 0.081686 ms CreateObjectMapping: 0.048501 ms MarkObjects: 0.916784 ms  DeleteObjects: 0.022244 ms)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2213.
+Total: 0.750130 ms (FindLiveObjects: 0.079133 ms CreateObjectMapping: 0.043760 ms MarkObjects: 0.621401 ms  DeleteObjects: 0.005105 ms)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.480202 ms
+UnloadTime: 2.440021 ms
 Multiple NetworkManagers detected in the scene. Only one NetworkManager can exist at a time. The duplicate NetworkManager will not be used.
 UnityEngine.Debug:Internal_Log(Int32, String, Object)
 UnityEngine.Debug:LogWarning(Object)
@@ -58,9 +58,9 @@ UnityEngine.Networking.NetworkManager:Awake() (at C:\buildslave\unity\build\Exte
  
 (Filename: C:/buildslave/unity/build/Extensions/Networking/Runtime/NetworkManager.cs Line: 157)
 
-System memory in use before: 23.9 MB.
-System memory in use after: 22.2 MB.
+System memory in use before: 30.5 MB.
+System memory in use after: 28.7 MB.
 
-Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 1116.
-Total: 0.861719 ms (FindLiveObjects: 0.045583 ms CreateObjectMapping: 0.045948 ms MarkObjects: 0.680477 ms  DeleteObjects: 0.088615 ms)
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 1187.
+Total: 0.915691 ms (FindLiveObjects: 0.040843 ms CreateObjectMapping: 0.040113 ms MarkObjects: 0.729709 ms  DeleteObjects: 0.103566 ms)
 
